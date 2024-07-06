@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Phoenician Trade Route",
+    "period": "1500 BCE - 300 BCE",
+    "description": "The Phoenicians established a vast trading network across the Mediterranean, with key ports and colonies in modern-day Lebanon, Tunisia, Malta, Spain, and beyond.",
+    "majorStops": [
+      {
+        "name": "Tyre",
+        "coordinates": {
+          "latitude": 33.2733,
+          "longitude": 35.2014
+        },
+        "goods": ["Tyrian purple dye", "Glassware", "Metalwork", "Textiles"]
+      },
+      {
+        "name": "Carthage",
+        "coordinates": {
+          "latitude": 36.8966,
+          "longitude": 10.3334
+        },
+        "goods": [
+          "Agricultural products",
+          "Silver",
+          "Precious metals",
+          "Ceramics"
+        ]
+      },
+      {
+        "name": "Cadiz",
+        "coordinates": {
+          "latitude": 36.527,
+          "longitude": -6.2889
+        },
+        "goods": ["Silver", "Tin", "Copper", "Salt"]
+      },
+      {
+        "name": "Malta",
+        "coordinates": {
+          "latitude": 35.9375,
+          "longitude": 14.3754
+        },
+        "goods": ["Shipbuilding materials", "Textiles", "Ceramics", "Salt"]
+      },
+      {
+        "name": "Marseille",
+        "coordinates": {
+          "latitude": 43.2964,
+          "longitude": 5.3697
+        },
+        "goods": ["Timber", "Furs", "Amber", "Slaves"]
+      }
+    ]
+  },
+  {
+    "name": "Greco-Roman Trade Route",
+    "period": "800 BCE - 600 CE",
+    "description": "Greek city-states and later the Roman Empire dominated Mediterranean trade, with major trading hubs in Greece, Italy, and North Africa.",
+    "majorStops": [
+      {
+        "name": "Athens",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        },
+        "goods": ["Olive oil", "Wine", "Textiles", "Ceramics"]
+      },
+      {
+        "name": "Corinth",
+        "coordinates": {
+          "latitude": 37.9402,
+          "longitude": 22.8748
+        },
+        "goods": ["Bronze", "Pottery", "Textiles", "Luxury goods"]
+      },
+      {
+        "name": "Rome",
+        "coordinates": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+        },
+        "goods": ["Grains", "Olive oil", "Wine", "Luxury goods"]
+      },
+      {
+        "name": "Alexandria",
+        "coordinates": {
+          "latitude": 31.2001,
+          "longitude": 29.9187
+        },
+        "goods": ["Papyrus", "Spices", "Glass", "Grain"]
+      },
+      {
+        "name": "Carthage",
+        "coordinates": {
+          "latitude": 36.8966,
+          "longitude": 10.3334
+        },
+        "goods": [
+          "Agricultural products",
+          "Silver",
+          "Precious metals",
+          "Ceramics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Byzantine Trade Route",
+    "period": "330 CE - 1453 CE",
+    "description": "The Byzantine Empire controlled much of the eastern Mediterranean, facilitating trade between Europe, the Middle East, and Asia.",
+    "majorStops": [
+      {
+        "name": "Constantinople",
+        "coordinates": {
+          "latitude": 41.0086,
+          "longitude": 28.9786
+        },
+        "goods": ["Silk", "Spices", "Jewellery", "Luxury goods"]
+      },
+      {
+        "name": "Thessalonica",
+        "coordinates": {
+          "latitude": 40.64,
+          "longitude": 22.94
+        },
+        "goods": ["Wheat", "Olive oil", "Textiles", "Pottery"]
+      },
+      {
+        "name": "Alexandria",
+        "coordinates": {
+          "latitude": 31.2001,
+          "longitude": 29.9187
+        },
+        "goods": ["Papyrus", "Spices", "Glass", "Grain"]
+      },
+      {
+        "name": "Antioch",
+        "coordinates": {
+          "latitude": 36.2048,
+          "longitude": 36.1651
+        },
+        "goods": ["Silk", "Spices", "Glassware", "Textiles"]
+      },
+      {
+        "name": "Venice",
+        "coordinates": {
+          "latitude": 45.4408,
+          "longitude": 12.3155
+        },
+        "goods": ["Luxury goods", "Glass", "Textiles", "Shipbuilding materials"]
+      }
+    ]
+  },
+  {
+    "name": "Genoese-Venetian Trade Route",
+    "period": "1000 CE - 1600 CE",
+    "description": "The maritime republics of Genoa and Venice dominated Mediterranean trade during the High and Late Middle Ages, establishing colonies and trading posts across the region.",
+    "majorStops": [
+      {
+        "name": "Genoa",
+        "coordinates": {
+          "latitude": 44.4056,
+          "longitude": 8.9463
+        },
+        "goods": [
+          "Textiles",
+          "Metalwork",
+          "Shipbuilding materials",
+          "Luxury goods"
+        ]
+      },
+      {
+        "name": "Venice",
+        "coordinates": {
+          "latitude": 45.4408,
+          "longitude": 12.3155
+        },
+        "goods": ["Luxury goods", "Glass", "Textiles", "Shipbuilding materials"]
+      },
+      {
+        "name": "Acre",
+        "coordinates": {
+          "latitude": 32.9237,
+          "longitude": 35.0755
+        },
+        "goods": ["Spices", "Textiles", "Luxury goods", "Glassware"]
+      },
+      {
+        "name": "Constantinople",
+        "coordinates": {
+          "latitude": 41.0086,
+          "longitude": 28.9786
+        },
+        "goods": ["Silk", "Spices", "Jewellery", "Luxury goods"]
+      },
+      {
+        "name": "Caffa",
+        "coordinates": {
+          "latitude": 44.9547,
+          "longitude": 35.3808
+        },
+        "goods": ["Grain", "Furs", "Slaves", "Leather goods"]
+      }
+    ]
+  }
+]
